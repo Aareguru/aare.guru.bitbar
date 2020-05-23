@@ -7,7 +7,7 @@ Offizielles Plugin von [Aare.guru](https://aare.guru).
 ## Installation
 
 - [BitBar](https://getbitbar.com) herunterladen und installieren.
-- Installations-Link klicken (Oder manuell die Datei `aareguru.5m.php` in dein BitBar-Plugins-Verzeichnis kopieren:)
+- Installations-Link in die Adresszeile deines Browsers kopieren (Oder manuell die Datei `aareguru.5m.php` in dein BitBar-Plugins-Verzeichnis kopieren und dann mit `chmod +x aareguru.5m.php` ausführbar machen):
 
 > `bitbar://openPlugin?src=https://github.com/aareguru/aare.guru.bitbar/raw/master/aareguru.5m.php`
 
