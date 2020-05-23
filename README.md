@@ -7,9 +7,10 @@ Die aktuelle Aare-Temperatur in deiner MacOS-Menuzeile.
 - [BitBar](https://getbitbar.com) herunterladen und installieren.
 - Installations-Link klicken (Oder manuell die Datei `aareguru.5m.php` in dein BitBar-Plugins-Verzeichnis kopieren:)
 
-> `bitbar://openPlugin?title=Aare.guru&src=https://github.com/aareguru/aare.guru.bitbar/raw/master/aareguru.5m.php`
+> `bitbar://openPlugin?src=https://github.com/aareguru/aare.guru.bitbar/raw/master/aareguru.5m.php`
 
-- Optional in der Datei deine Schmerzgrenze und einen anderen Ort konfigurieren, unterhalb der Zeile `// Configuration`.
+- Du kannst uns vertrauen.
+- Optional in der Datei deine Schmerzgrenze (Ab dieser Temperatur wechselt die Anzeige auf ein freundliches Grün) und einen anderen Ort konfigurieren; unterhalb der Zeile `// Configuration`.
 
 ## Datenquelle
 
