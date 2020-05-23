@@ -2,6 +2,8 @@
 
 Die aktuelle Aare-Temperatur in deiner MacOS-Menuzeile.
 
+Offizielles Plugin von [Aare.guru](https://aare.guru).
+
 ## Installation
 
 - [BitBar](https://getbitbar.com) herunterladen und installieren.

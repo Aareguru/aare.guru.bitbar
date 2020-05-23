@@ -8,7 +8,7 @@
 # <bitbar.desc>Displays current Aare river temperature</bitbar.desc>
 # <bitbar.image>https://aare.guru/ios/gurulogo.svg</bitbar.image>
 # <bitbar.dependencies>php</bitbar.dependencies>
-# <bitbar.abouturl>https://aare.guru/</bitbar.abouturl>
+# <bitbar.abouturl>https://github.com/Aareguru/aare.guru.bitbar</bitbar.abouturl>
 
 // Configuration
 $schmerzgrenze = 18; // [°C], switches color of the display when reached
