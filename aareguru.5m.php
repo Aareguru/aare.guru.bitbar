@@ -28,10 +28,10 @@ $raw = @file_get_contents($apiurl);
 $data = @json_decode($raw);
 
 if (!$data) {
-    echo "Fehler vom Aare.guru\n";
+    echo "???°\n";
     echo "---\n";
     echo "Tschuldigung.\n";
-    echo "Keine Antwort von der API. :-(";
+    echo "Keine Antwort vom Aare.guru. :-(|href=https://aare.guru/#{$city}";
     exit(1);
 }
 
