@@ -2,7 +2,7 @@
 
 <?php
 # <bitbar.title>Aare.guru</bitbar.title>
-# <bitbar.version>v1.0</bitbar.version>
+# <bitbar.version>v1.1</bitbar.version>
 # <bitbar.author>Christian Studer</bitbar.author>
 # <bitbar.author.github>cstuder</bitbar.author.github>
 # <bitbar.desc>Displays current Aare river temperature</bitbar.desc>
@@ -15,7 +15,7 @@ $schmerzgrenze = 18; // [°C], switches color of the display when reached
 $city = "bern"; // For a list of all possible cities look here: https://aareguru.existenz.ch/v2018/cities
 
 // Internal configuration
-$version = '1.0.0';
+$version = '1.1';
 $app = 'aare.guru.bitbar';
 $coldcolor = '#0000a0';
 $warmcolor = '#009fb0';
