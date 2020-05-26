@@ -28,7 +28,7 @@ $raw = @file_get_contents($apiurl);
 $data = @json_decode($raw);
 
 if (!$data) {
-    echo "???°\n";
+    echo "?°\n";
     echo "---\n";
     echo "Tschuldigung.\n";
     echo "Keine Antwort vom Aare.guru. :-(|href=https://aare.guru/#{$city}";
