@@ -1,5 +1,4 @@
 #!/usr/bin/env php
-
 <?php
 # <bitbar.title>Aare.guru</bitbar.title>
 # <bitbar.version>v1.1</bitbar.version>
